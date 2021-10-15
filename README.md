@@ -1,2 +1,2 @@
 # bigdata-analysis
-Projects for big data
+Projects for big data analysis
